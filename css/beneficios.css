@@ -1,0 +1,87 @@
+.beneficios {
+    background-color: #FFF;
+}
+
+.beneficios .container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    text-align:center;
+    padding: 0.6rem;
+}
+
+.beneficios-title{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.beneficio-card{
+    background-repeat: no-repeat;
+    background-position: top 0.5rem center;
+    background-size: 4rem 4rem;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    padding: 5rem 0.6rem 0.6rem 0.6rem;
+    margin-bottom: 0.4rem;
+}
+
+    .beneficio-title{
+        font-weight: bold;
+        margin: 0.3rem 0;
+    }
+
+    .beneficio-card p {
+        font-weight: 300;
+    }
+
+        .bcard1 {
+            background-image: url('../img/icone-beneficios-tudo-para-voce.svg');
+        }
+
+        .bcard2 {
+            background-image: url('../img/icone-beneficios-nenhuma-duvida.svg');
+        }
+
+        .bcard3 {
+            background-image: url('../img/icone-beneficios-didatica-cuidadosa.svg');
+        }
+
+        .bcard4 {
+            background-image: url('../img/icone-beneficios-online.svg');
+        }
+
+@media (min-width: 640px) {
+
+    .beneficios .container {
+        grid-template-columns: repeat(2, 20rem);
+        grid-template-rows: 3rem repeat(2, 1fr);
+        grid-template-areas:
+        "title title"
+        "bcard1 bcard2"
+        "bcard3 bcard4";
+        justify-content: center;
+        gap: 0.8rem;
+    }
+
+    .beneficios-title{
+        grid-area: title;
+    }
+
+    .bcard1{
+        grid-area: bcard1;
+    }
+
+    .bcard2{
+        grid-area: bcard2;
+    }
+
+    .bcard3{
+        grid-area: bcard3;
+    }
+
+    .bcard4{
+        grid-area: bcard4;
+    }
+
+}
