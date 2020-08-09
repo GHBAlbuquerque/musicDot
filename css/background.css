@@ -1,11 +1,18 @@
 .background {
     background-image: url("../img/home-background-mobile.png");
-    background-size: cover;
+    background-size: 100%;
 }
 
 @media (min-width: 640px) {
     main {
         background-image: url("../img/home-background.png");
+        background-size: cover;
     }
 }
 
+@media (min-width: 796px) {
+    main {
+        background-image: url("../img/home-background.png");
+        background-size: 100%;
+    }
+}

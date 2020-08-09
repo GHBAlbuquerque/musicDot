@@ -59,6 +59,11 @@
             line-height: 1.2em;
         }
 
+
+        .ul-cursos li a:hover {
+            color: var(--rose);
+        }
+
 @media (min-width: 640px) {
 
     .footer {
@@ -107,6 +112,7 @@
         flex-wrap: nowrap;
         justify-content: space-between;
         text-align: left;
+        padding-bottom: 20px;
     }
 
     .footer-section {

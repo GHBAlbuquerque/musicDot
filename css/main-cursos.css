@@ -208,6 +208,11 @@
         margin-bottom: 1.5rem;
     }
 
+    .ul-main-cursos li {
+        background-size: 2.5rem 2.5rem;
+        padding-top: 3rem;
+    }
+
     .ul-main-cursos .curso--destaque {
         order: -1;
         grid-area: 1/1/ span 2/2;
@@ -239,6 +244,11 @@
 
     .ul-main-cursos {
         grid-template-columns: repeat(6, 11rem);
+    }
+
+    .ul-main-cursos li {
+        background-size: 3rem 3rem;
+        padding-top: 3rem;
     }
 }
 
