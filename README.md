@@ -1,6 +1,6 @@
 ![Logo of the project](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/musicdotlogo.png)
  
-## TO-DO-List
+## MusicDot
 
 App designed to create Task Lists, done as part of Full Stack Developer course at Escola de Javascript (OneBit Code). TO-DO-List lets you organize your tasks by creating tasklists containing multiple activities. Keep track of your activities by creating tasklists, adding new tasks, checking them as done and deleting them whenever you feel like it.
  
