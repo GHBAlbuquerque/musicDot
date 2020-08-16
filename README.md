@@ -23,15 +23,15 @@ Here are the technologies used in this project.
 ## Getting started
  
 * Open in browser:
->    just open on your default browser :)
+>    just open the HTML file on your default browser :)
  
 ## How to use
  
-### 1-) 
+### 1-) Open the site on your default browser and check what MusicDot has to offer. Scroll down to see available courses, payment plans, youtube links and app adds.
 ![IphoneVer](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/IPHONE%20VER.png)
 
-### 2-) Click 'Nova Lista' to create a new TaskList
-![TaskLists]()
+### 2-) If you're using your Ipad, 
+![IpadVer]()
 
 ### 3-) Create a new TaskList by typing any name you want
 ![NewTaskList]()
