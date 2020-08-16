@@ -2,7 +2,7 @@
  
 ## MusicDot
 
-Responsive Website for a music school called MusicDot. Done as part of Front-End Development Course (HTML & CSS) at Caelum.
+Responsive Website for a music school called MusicDot. Done as part of Front-End Development Course (HTML & CSS) at Caelum. Developed with Mobile First concept in mind, this website aims to bring a responsive and effective experience to users in different platforms.
 
 ![Mockups](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/MUSICDOTMOCKUP.png)
  
@@ -18,39 +18,35 @@ Here are the technologies used in this project.
 ## Services Used
  
 * Github
-* Bulma Framework
-* MongoDB
- 
 
  
 ## Getting started
  
-* To install:
->    $ npm install
-* To run the project:
->    $ npm run dev
 * Open in browser:
->    go to http://localhost:3000
+>    just open on your default browser :)
  
 ## How to use
  
-### 1-) Go to http://localhost:3000 and click 'Ir para Listas de Atividades!'
-![HomeScreen](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_home.png)
+### 1-) 
+![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone1.png)
+![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone2.png)
+![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone3.png)
+![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone4.png)
 
 ### 2-) Click 'Nova Lista' to create a new TaskList
-![TaskLists](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasklist.png)
+![TaskLists]()
 
 ### 3-) Create a new TaskList by typing any name you want
-![NewTaskList](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_newtasklist.png)
+![NewTaskList]()
 
 ### 4-) Click on your TaskList name to view tasks associated to it. To create a new Task, simply click on 'Nova Tarefa'.
-![ViewTaskList](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasklist_empty.png)
+![ViewTaskList]()
 
 ### 5-) Create a new Task by typing any name you want
-![NewTask](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_newtask.png)
+![NewTask]()
 
 ### 6-) Delete tasks by clicking on 'Remover' or mark them as 'done' by using the checkbox.
-![NewTask](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasks.png)
+![NewTask]()
 
  
 ## Features
