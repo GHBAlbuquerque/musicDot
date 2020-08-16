@@ -2,18 +2,17 @@
  
 ## MusicDot
 
-App designed to create Task Lists, done as part of Full Stack Developer course at Escola de Javascript (OneBit Code). TO-DO-List lets you organize your tasks by creating tasklists containing multiple activities. Keep track of your activities by creating tasklists, adding new tasks, checking them as done and deleting them whenever you feel like it.
+Responsive Website for a music school called MusicDot. Done as part of Front-End Development Course (HTML & CSS) at Caelum.
+
+![Mockups](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/MUSICDOTMOCKUP.png)
  
  
 ## Technology 
  
 Here are the technologies used in this project.
  
-* Node.JS
-* Nodemon 2.0.4
-* Express 4.17.1
-* EJS 3.1.3
-* Mongoose 5.9.20
+* HTML
+* CSS
  
  
 ## Services Used
