@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/musicdotlogo.png)
+![Logo of the project](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/musicdotlogo_small.png)
  
 ## MusicDot
 
