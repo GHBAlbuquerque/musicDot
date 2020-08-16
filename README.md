@@ -30,20 +30,20 @@ Here are the technologies used in this project.
 ### 1-) Open the site on your default browser and check what MusicDot has to offer. Scroll down to see available courses, payment plans, youtube links and app adds.
 ![IphoneVer](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/IPHONE%20VER.png)
 
-### 2-) If you're using your Ipad, 
-![IpadVer]()
+### 2-) If you're using your Ipad, enjoy our responsive version exclusive for screens bigger than 768px.
+![IpadVer](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/IPAD%20MOCKUP.png)
 
-### 3-) Create a new TaskList by typing any name you want
-![NewTaskList]()
+### 3-) Finally, you can also learn about MusicDot on your desktop.
+![Desktop1](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_homemenu.png)
+![Desktop2](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_plans.png)
+![Desktop3](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_footer.png)
 
-### 4-) Click on your TaskList name to view tasks associated to it. To create a new Task, simply click on 'Nova Tarefa'.
-![ViewTaskList]()
+### 4-) If you need, you can contact MusicDot by clicking on 'Contato' on the header navbar. You'll also find more information about MusicDot history and business.
+![About](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_about.png)
+![Contato](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_about.png)
 
-### 5-) Create a new Task by typing any name you want
-![NewTask]()
 
-### 6-) Delete tasks by clicking on 'Remover' or mark them as 'done' by using the checkbox.
-![NewTask]()
+
 
  
 ## Features
