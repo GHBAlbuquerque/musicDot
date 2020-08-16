@@ -28,10 +28,7 @@ Here are the technologies used in this project.
 ## How to use
  
 ### 1-) 
-![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone1.png)
-![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone2.png)
-![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone3.png)
-![HomeScreen](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/sc_rpiphone4.png)
+![IphoneVer](https://github.com/GHBAlbuquerque/musicDot/blob/master/readme_images/IPHONE%20VER.png)
 
 ### 2-) Click 'Nova Lista' to create a new TaskList
 ![TaskLists]()
